@@ -2,12 +2,12 @@
 
 
 
-\# Who Am I 
+# Who Am I 
 
 
 
 
-Hello! My name is Guevna \*\*\*(Give-Na)\*\*\*, but I prefer to go by Nina. I am currently (2026) a Masters student at Northeastern University studying Bioinformatics. I did my undergraduate at Florida Atlantic University, and received my Bachelors in Biology in 2024.
+Hello! My name is Guevna ***(Give-Na)***, but I prefer to go by Nina. I am currently (2026) a Masters student at Northeastern University studying Bioinformatics. I did my undergraduate at Florida Atlantic University, and received my Bachelors in Biology in 2024.
 
 
 
